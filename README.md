@@ -1,6 +1,6 @@
 ### Hi, I'm Samah 👋
 
-I'm a computational physicist graduate, working in scientific machine learning, inverse problems, and computational methods for physics.
+I'm a computational physics graduate, working in scientific machine learning, inverse problems, and computational methods for physics.
 
 My MSc thesis focused on Physics-Informed Neural Networks (PINNs) for forward and inverse quantum problems. What fascinates me most is the challenge of working backward from observations to uncover the hidden physics.
 
